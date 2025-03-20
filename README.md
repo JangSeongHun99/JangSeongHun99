@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-### 우리들 사진​
+### 학과 로고
 
-<img src="https://it.wsu.ac.kr/dept2/it/images/logo_n.png" width="320" height="240" />​
+<img src="https://it.wsu.ac.kr/dept2/it/images/logo_n.png"/>​
 ​
 
 ​
