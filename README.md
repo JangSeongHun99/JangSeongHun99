@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕 👋
 
 <!--
 **JangSeongHun99/JangSeongHun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 우리들 사진​
 
-<img src="image/1.jpg" width="320" height="240" />​
+<img src="https://www.cuk.edu/type/common/img/kor/info/coperUniv_logo17.png" width="320" height="240" />​
 
 <img src="image/2.jpg" width="320" height="240" />​
 
@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/Emmett6401?style=social)![GitHub stars](https://img.shields.io/github/stars/Emmett6401?style=social)​
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)​
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-11-red)​
 
 ​
 
